@@ -1,4 +1,4 @@
-# MediaFieldShowDocs-
+# MediaFieldShowDocs
 JCB Package including the demo component and a plugin to show documents in the "media" field type modal.
 
 Package key: f1cea45e5fb156be7e1d48ee44157439
