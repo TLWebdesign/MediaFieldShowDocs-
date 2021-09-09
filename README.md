@@ -1,7 +1,5 @@
 # MediaFieldShowDocs
-JCB Package including the demo component and a plugin to show documents in the "media" field type modal.
-
-Package key: f1cea45e5fb156be7e1d48ee44157439
+JCB Package including a component and plugin to show documents in the "media" field type modal.
 
 Override on files from Joomla 3.10.2
 This file is included and changed:
