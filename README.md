@@ -4,10 +4,9 @@ JCB Package including the demo component and a plugin to show documents in the "
 Package key: f1cea45e5fb156be7e1d48ee44157439
 
 Override on files from Joomla 3.10.2
-These files are included and changed:
+This file is included and changed:
 
 administrator/components/com_media/views/imageslist/view.html.php
-administrator/components/com_media/views/imageslist/tmpl/default_images.php
 
 Use as you like, at your own risk.
 
